@@ -1,0 +1,5 @@
+1,NotePad,6574857689,11,500,lines,90,red,plastic
+2,CopyPaper,1234567891,22.3,300,22,poliester,A4
+3,Pen,399998745,24.5,100,black,gel
+4,Scissors,1222341223,33,900,wood,11
+5,PencilBox,122342343,99.6,1000,4
